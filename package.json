@@ -1,0 +1,24 @@
+{
+  "name": "angular-round",
+  "version": "1.0.0",
+  "description": "Rounding filter for Angular",
+  "main": "./src",
+  "scripts": {
+    "test": "karma start --single-run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bendrucker/angular-round.git"
+  },
+  "keywords": [
+    "angular",
+    "round",
+    "math"
+  ],
+  "author": "Ben Drucker <bvdrucker@gmail.com> (http://www.bendrucker.me/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bendrucker/angular-round/issues"
+  },
+  "homepage": "https://github.com/bendrucker/angular-round"
+}

@@ -1,0 +1,28 @@
+{
+  "name": "angular-round",
+  "version": "1.0.0",
+  "homepage": "https://github.com/bendrucker/angular-round",
+  "authors": [
+    "Ben Drucker <bvdrucker@gmail.com>"
+  ],
+  "description": "Rounding filter for Angular",
+  "main": "./release/angular-round.js",
+  "moduleType": [
+    "amd",
+    "globals",
+    "node"
+  ],
+  "keywords": [
+    "angular",
+    "round",
+    "math"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

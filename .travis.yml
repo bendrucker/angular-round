@@ -1,0 +1,12 @@
+language: node_js
+node_js:
+- iojs
+deploy:
+  provider: npm
+  email: bvdrucker@gmail.com
+  api_key:
+    secure: OfKZLanWWbVmA/7aYbzNgRSFYsDe3ZO5uIkH/9VeLTYPHueL8zZleh4VgSV4nE58VPQVYcNRccahvTxEpBJMle9LdEwOiFz824No2rB4DsO2P7qj/HG2MZ7g4U/4As/rTRRSF9BU0vmDqj/pLJIykgK3TdiU1EPvNBVhtG9/Vgs=
+  on:
+    tags: true
+    all_branches: true
+    repo: bendrucker/angular-round

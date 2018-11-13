@@ -1,4 +1,4 @@
-# angular-round [![Build Status](https://travis-ci.org/bendrucker/angular-round.svg?branch=master)](https://travis-ci.org/bendrucker/angular-round)
+# angular-round [![Build Status](https://travis-ci.org/bendrucker/angular-round.svg?branch=master)](https://travis-ci.org/bendrucker/angular-round) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/angular-round.svg)](https://greenkeeper.io/)
 Rounding filter for Angular
 
 ## Installing
